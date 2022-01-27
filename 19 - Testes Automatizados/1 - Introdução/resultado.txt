@@ -1,0 +1,7 @@
+mode: set
+introducao-testes/introducao.go:7.45,15.36 5 1
+introducao-testes/introducao.go:21.2,21.29 1 1
+introducao-testes/introducao.go:25.2,25.25 1 0
+introducao-testes/introducao.go:15.36,16.40 1 1
+introducao-testes/introducao.go:16.40,18.4 1 1
+introducao-testes/introducao.go:21.29,23.3 1 1
